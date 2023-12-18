@@ -22,7 +22,6 @@ Right now, I'm on a coding journey, diving deep into the world of technology and
 ## Let's Connect
 
 - 📫 You can reach me via email at [hichamelkhouji@gmail.com](mailto:hichamelkhouji@gmail.com).
-- 📸 Connect with me on [Instagram](https://instagram.com/journey_ofcoding?utm_source=qr&igshid=MzNlNGNkZWQ4Mg==) to see my coding journey in action.
 - 💼 Check out my professional profile on [LinkedIn](https://www.linkedin.com/in/elkhoujihicham/).
 
 ## Let's Code Together!
